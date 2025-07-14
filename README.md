@@ -54,4 +54,8 @@
  ### Using CTEs and LEFT JOIN I brought in the columns from cost table to my appended bike transactions table. 
  <img width="1352" height="660" alt="DB6" src="https://github.com/user-attachments/assets/1145d584-9248-42aa-8274-1115a10fcba4" />
 
+------------------------------------------------------------------------------------------------------------
+## Power BI <img width="70" height="70" alt="Power-BI" src="https://github.com/user-attachments/assets/007d81bd-730c-469c-a87f-eb76d323b0cf" />
+### Next, I open Power BI and connect with the Database using “DirectQuery” for the purpose of a dynamic dashboard. Anytime the database is updated with new transactions, the Power BI dashboard will reflect them.
+<img width="1362" height="711" alt="DB7" src="https://github.com/user-attachments/assets/fa050e52-2395-4e8e-93a0-ec63fcc9783a" />
  
