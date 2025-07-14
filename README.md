@@ -1,5 +1,5 @@
 ## Bike-Sales-Analysis
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fnz%2Fsearch%3Fk%3Dbike%2520sales&psig=AOvVaw3NfUhVBF_L_FmyLq9gK27P&ust=1752578757780000&source=images&opi=89978449)
+![240_F_361080070_9XQOrqHLvEwL8789XAqVEFpuLADGYyRX](https://github.com/user-attachments/assets/6e395ac4-4728-4367-b179-597c18be2b09)
 
 ## Role: Data Analyst
 
