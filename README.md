@@ -25,12 +25,13 @@
 ### Bike_share_yr_1 : This contains records of transactions made by Hermes Bike Share for the year 2022.
 ### Cost_table : This consists of unique records of years, price and cost of goods(COG).
 
-## Tools Used : SQL <img width="50" height="50" alt="sql-server" src="https://github.com/user-attachments/assets/5b6d3faa-5df5-4d82-8917-3a2b231f89d0" />
- and Power BI <img width="50" height="50" alt="Power-BI" src="https://github.com/user-attachments/assets/a4984524-be1e-4c98-b7a5-9790d15f45d2" />
+## Tools Used : SQL and Power BI 
 
 ------------------------------------------------------------------------------------------------------
- ## SQL
- ### Using Microsoft SQL Server,  I created a database named ‘Bike_Data ’ for the CSV datasets. 
+ ## SQL <img width="75" height="70" alt="sql-server" src="https://github.com/user-attachments/assets/e6a859ab-2521-4bad-9f25-e534bd2e6453" />
+
+
+ ### Using Microsoft SQL Server, I created a database named ‘Bike_Data ’ for the CSV datasets. 
  <img width="1359" height="720" alt="DB1" src="https://github.com/user-attachments/assets/052b5e51-c5a6-4e6f-895d-da89d21ef042" />
 
  -------------------------------------------------------------------------------------------------------
@@ -38,7 +39,7 @@
  <img width="1363" height="717" alt="DB2" src="https://github.com/user-attachments/assets/86bae36d-9bb4-4366-97a3-df7cbf8efd37" />
 
  -------------------------------------------------------------------------------------------------------
- ### After importing the three  datasets, I retrieve the tables.
+ ### After importing the three datasets, I retrieve the tables.
  <img width="1365" height="694" alt="DB3" src="https://github.com/user-attachments/assets/29388c69-c54b-44e9-ae32-9f93f0ea0268" />
 
  --------------------------------------------------------------------------------------------------------
