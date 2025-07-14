@@ -39,7 +39,7 @@
  <img width="1363" height="717" alt="DB2" src="https://github.com/user-attachments/assets/86bae36d-9bb4-4366-97a3-df7cbf8efd37" />
 
  -------------------------------------------------------------------------------------------------------
- ### After importing the three datasets, I retrieve the tables.
+ ### After importing the three datasets, I retrieved the tables.
  <img width="1365" height="694" alt="DB3" src="https://github.com/user-attachments/assets/29388c69-c54b-44e9-ae32-9f93f0ea0268" />
 
  --------------------------------------------------------------------------------------------------------
