@@ -20,12 +20,15 @@
 ### Please provide an estimated timeline for completion and recommendation on raising prices next year.
 ---------------------------------------------------------------------------------------------------
 # Project Documentation📝:
+### For the task assigned, I’ve been provided with three datasets in a CSV format :
 ### Bike_share_yr_0 : This contains records of transactions made by Hermes Bike Share for the year 2021.
 ### Bike_share_yr_1 : This contains records of transactions made by Hermes Bike Share for the year 2022.
 ### Cost_table : This consists of unique records of years, price and cost of goods(COG).
 
-------------------------------------------------------------------------------------------------------
+## Tools Used : SQL and Power BI
 
+------------------------------------------------------------------------------------------------------
+ ## SQL 
  ### Using Microsoft SQL Server,  I created a database named ‘Bike_Data ’ for the CSV datasets. 
  <img width="1359" height="720" alt="DB1" src="https://github.com/user-attachments/assets/052b5e51-c5a6-4e6f-895d-da89d21ef042" />
 
