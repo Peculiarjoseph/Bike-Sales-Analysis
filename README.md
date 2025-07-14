@@ -28,7 +28,7 @@
 ## Tools Used : SQL and Power BI
 
 ------------------------------------------------------------------------------------------------------
- ## SQL 
+ ## SQL ![microsoft-sql-server4529](https://github.com/user-attachments/assets/3ea4266b-f9d3-4bda-a1a5-8ab50c4b0edc)
  ### Using Microsoft SQL Server,  I created a database named ‘Bike_Data ’ for the CSV datasets. 
  <img width="1359" height="720" alt="DB1" src="https://github.com/user-attachments/assets/052b5e51-c5a6-4e6f-895d-da89d21ef042" />
 
