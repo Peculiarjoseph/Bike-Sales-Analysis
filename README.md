@@ -18,9 +18,7 @@
 ### Data Source: Access to our databases will be provided. If no database, please create one.
 ### Deadline: We need a preliminary version ASAP.
 ### Please provide an estimated timeline for completion and recommendation on raising prices next year.
-
-
-
+---------------------------------------------------------------------------------------------------
 # Project Documentation📝:
 ### Bike_share_yr_0 : This contains records of transactions made by Hermes Bike Share for the year 2021.
 ### Bike_share_yr_1 : This contains records of transactions made by Hermes Bike Share for the year 2022.
