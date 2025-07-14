@@ -53,3 +53,5 @@
  ---------------------------------------------------------------------------------------------------------
  ### Using CTEs and LEFT JOIN I brought in the columns from cost table to my appended bike transactions table. 
  <img width="1352" height="660" alt="DB6" src="https://github.com/user-attachments/assets/1145d584-9248-42aa-8274-1115a10fcba4" />
+
+ 
