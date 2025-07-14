@@ -64,7 +64,7 @@
  ### This is the Queried table from the database in Power BI dsiplaying the important columns from the database needed for the development of the dashboard.
  <img width="1357" height="692" alt="DB8" src="https://github.com/user-attachments/assets/adcd1a52-54ae-4a58-8791-ab2583824a5a" />
 
- ### Dynamic Power BI dashboard displaying key performance metrics based on the requirements given.
+ ## Dynamic Power BI dashboard displaying key performance metrics based on the requirements given.
  <img width="948" height="526" alt="DB10" src="https://github.com/user-attachments/assets/ae897f61-2d75-4719-bd8a-66ce8d6fac08" />
 
 ## Recommendations
