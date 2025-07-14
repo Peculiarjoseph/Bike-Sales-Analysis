@@ -1,7 +1,7 @@
 # Bike-Sales-Analysis
 
 ## Role: Data Analyst
-## Task: We need your expertise to develop a dashboard for “Hermes Bike Share” that displays our key performance metrics for informed decision-making.
+#### Task: We need your expertise to develop a dashboard for “Hermes Bike Share” that displays our key performance metrics for informed decision-making.
 
 ## Requirements:
 
