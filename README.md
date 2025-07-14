@@ -25,8 +25,8 @@
 ### Bike_share_yr_1 : This contains records of transactions made by Hermes Bike Share for the year 2022.
 ### Cost_table : This consists of unique records of years, price and cost of goods(COG).
 
-## Tools Used : SQL <img width="512" height="512" alt="sql-server" src="https://github.com/user-attachments/assets/5b6d3faa-5df5-4d82-8917-3a2b231f89d0" />
- and Power BI <img width="960" height="1280" alt="Power-BI" src="https://github.com/user-attachments/assets/a4984524-be1e-4c98-b7a5-9790d15f45d2" />
+## Tools Used : SQL <img width="7" height="7" alt="sql-server" src="https://github.com/user-attachments/assets/5b6d3faa-5df5-4d82-8917-3a2b231f89d0" />
+ and Power BI <img width="7" height="7" alt="Power-BI" src="https://github.com/user-attachments/assets/a4984524-be1e-4c98-b7a5-9790d15f45d2" />
 
 ------------------------------------------------------------------------------------------------------
  ## SQL
