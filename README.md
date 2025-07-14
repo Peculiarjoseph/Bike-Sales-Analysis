@@ -1,4 +1,4 @@
-# Bike-Sales-Analysis
+# Bike Sales Analysis
 ![240_F_361080070_9XQOrqHLvEwL8789XAqVEFpuLADGYyRX](https://github.com/user-attachments/assets/6e395ac4-4728-4367-b179-597c18be2b09)
 
 # Role: Data Analyst
